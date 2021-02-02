@@ -6,7 +6,8 @@ in the layout
 this class should be moved to a card grid css file
 in particle */
 .utc-card-grid__container {
-  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 @media (max-width: 991.98px) {
