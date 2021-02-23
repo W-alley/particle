@@ -23,6 +23,11 @@
   z-index: 0;
 }
 
+/* layout builder section editor */
+#drupal-off-canvas ul.layout-selection li div {
+  @apply text-white;
+}
+
 .hellowordl {
   background: red;
 }
@@ -41,6 +46,7 @@
   z-index: 5;
   line-height: 1.1;
 }
+
 .utcblock--page-title-block {
   position: relative;
   border-top: none;
